@@ -7,3 +7,9 @@
 //arrays,objects, functions
 
 //js is dynamic type language
+
+
+//**************************************************************************** */
+
+//        Memory
+//    stack( premitive // copy), heap( non-premitive // reference(original))
